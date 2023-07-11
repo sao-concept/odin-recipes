@@ -1,2 +1,2 @@
 # odin-recipes
-A basic recipe website project
+This is a basic recipes website project to kickstart my web development journey. I look forward to building something amazing.
